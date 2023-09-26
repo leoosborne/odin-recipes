@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(204, 242, 242);
+  font-family: "Plus Jakarta Sans", "Lucida Sans Unicode", sans-serif;
+}
+
+.recipe-list {
+  background-color: pink;
+  margin: 1rem 0 0;
+  padding-bottom: .25rem;
+  border-radius: 8px;
+  padding-left: 2rem;
+}
+
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 48px;
+  margin: 4px 0 0 0;
+}
+
+.lesson-list {
+  background-color: rgb(39, 227, 32);
+  margin: 1rem 0 0 0;
+  padding-bottom: .25rem;
+  padding-top: 1px;
+  border-radius: 8px;
+  padding-left: 2rem;
+}
