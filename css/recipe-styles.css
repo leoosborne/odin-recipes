@@ -3,6 +3,11 @@ body {
   font-family: "Plus Jakarta Sans", "Lucida Sans Unicode", sans-serif;
 }
 
+/* show the box model page layout */
+* {
+  border: 2px solid red;
+}
+
 .recipe-list {
   background-color: pink;
   margin: 1rem 0 0;
